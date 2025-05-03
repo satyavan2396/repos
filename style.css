@@ -1,0 +1,65 @@
+#sec{
+    border: 2px solid gray;
+    width: 400px;
+    height: 350px;
+    border-radius: 8px;
+    margin-left: 410px;
+    margin-top: 90px;
+
+}
+#google{
+    color: blue;
+    font-weight: bold;
+}
+#o{
+    color: red;
+    font-weight: bold;
+}
+#secO{
+    color: orange;
+    font-weight: bold; 
+}
+#g{
+    color: blue;
+    font-weight: bold;
+}
+#l{
+    color: green;
+    font-weight: bold;
+}
+#e{
+    color: red;
+    font-weight: bold;
+}
+#section1{
+    margin-left: 20px;
+    margin-top: 30px;
+    padding-left: 120px;
+}
+h2{
+    padding-left: 60px;
+}
+#img{
+    width: 50px;
+    height: 25px;
+    border-radius: 10px;
+    float: left;
+    padding-left: 80px;
+}
+#par{
+    color: blue;
+    
+}
+#button{
+    background-color: blue;
+    border-radius: 8px;
+    margin-left: 120px;
+    
+}
+#pargraph{
+    padding-left: 70px;
+}
+#http{
+    padding-left: 60px;
+    color: blue;
+}
